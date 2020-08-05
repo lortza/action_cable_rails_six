@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a practice app to see how action cable works in rails 6 with vanilla JS. It's based on [this tutorial](https://medium.com/@jelaniwoods/get-started-with-action-cable-in-rails-6-4c605f93c9b8).
 
-Things you may want to cover:
 
-* Ruby version
+* Ruby version: ruby-2.6.5
 
-* System dependencies
+* Database creation: postgres
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
